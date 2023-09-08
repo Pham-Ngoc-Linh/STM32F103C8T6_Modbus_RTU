@@ -1,0 +1,2 @@
+../Core/Src/Modbus_CRC.c:65:10:crc16	2
+../Core/Src/Modbus_CRC.c:81:6:SendData	1

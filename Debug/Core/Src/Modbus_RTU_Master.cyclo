@@ -1,0 +1,3 @@
+../Core/Src/Modbus_RTU_Master.c:18:6:RequireData	1
+../Core/Src/Modbus_RTU_Master.c:32:6:RecieveData	3
+../Core/Src/Modbus_RTU_Master.c:67:6:RecieveDataFromSlave	1

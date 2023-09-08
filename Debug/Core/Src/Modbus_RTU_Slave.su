@@ -1,0 +1,5 @@
+../Core/Src/Modbus_RTU_Slave.c:23:6:modbusException	16	static
+../Core/Src/Modbus_RTU_Slave.c:34:6:CheckError	24	static
+../Core/Src/Modbus_RTU_Slave.c:48:9:ReadHoldingRegs	24	static
+../Core/Src/Modbus_RTU_Slave.c:76:9:ReadInputRegs	24	static
+../Core/Src/Modbus_RTU_Slave.c:105:6:TransmitDataToMaster	8	static
